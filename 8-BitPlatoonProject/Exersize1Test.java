@@ -12,7 +12,7 @@ public class Exersize1Test
 //		check =  new Exersize1();
 //	}
 	@Test
-	public void testIsEvenIsTrue() 
+	public void testIsEvenIsTrue()//testing if method result is true. 
 	{
 		Exersize1 check = new Exersize1();
 		boolean expected = true ;
